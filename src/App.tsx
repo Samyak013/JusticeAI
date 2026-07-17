@@ -434,7 +434,7 @@ Document compiled by JusticeAI. SDG 16 Compliance.
       
       {/* 1. Header (Dynamic Logo and Lang Selector) */}
       <header className="sticky top-0 z-50 bg-slate-900 text-white shadow-sm border-b border-slate-800 h-16 flex items-center shrink-0">
-        <div className="max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center gap-3">
+        <div className="w-full px-4 sm:px-6 lg:px-8 flex justify-between items-center gap-3">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white font-bold shadow-xs border border-blue-500/30">
               <Scale className="w-4 h-4 text-blue-100" />
@@ -475,7 +475,7 @@ Document compiled by JusticeAI. SDG 16 Compliance.
       </header>
 
       {/* 2. Main content area with permanent left sidebar navigator */}
-      <div className="flex-1 flex flex-col md:flex-row max-w-7xl w-full mx-auto">
+      <div className="flex-1 flex flex-col md:flex-row w-full">
         
         {/* Left corner Navigator Sidebar */}
         <aside className="w-full md:w-64 bg-slate-900 text-white shrink-0 border-b md:border-b-0 md:border-r border-slate-800 flex flex-col justify-between p-4 space-y-6">
