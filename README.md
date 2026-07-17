@@ -105,7 +105,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 npm run dev
 ```
 
-The application will be available at **http://localhost:3000**
+The application will be available at **https://justiceaii.netlify.app/**
 
 ---
 
