@@ -1146,8 +1146,6 @@ Document compiled by JusticeAI. SDG 16 Compliance.
             <span className="text-blue-400 font-semibold flex items-center gap-1">
               <Award className="w-3.5 h-3.5" /> UN SDG 16 Compliant
             </span>
-            <span className="text-slate-600">|</span>
-            <span>Developed with Gemini 3 Series</span>
           </div>
         </div>
       </footer>
