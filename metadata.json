@@ -1,0 +1,6 @@
+{
+  "name": "JusticeAI",
+  "description": "Citizen Rights & Legal Guidance Agent featuring a simulated multi-agent workflow (Legal Research, Document Generator, Rights Explainer, and Authority Recommendation), multilingual chat, draft template letters, and real-time guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
